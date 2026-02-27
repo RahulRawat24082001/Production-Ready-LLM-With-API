@@ -1,7 +1,3 @@
-Sure — here’s a **clean, professional, production-ready README** you can directly use or tweak. It’s written the way interviewers and reviewers like to see it: clear architecture, setup, and deployment focus.
-
----
-
 # 🚀 Production-Ready LLM API with FastAPI & TinyLlama
 
 This project is a **production-ready Large Language Model (LLM) service** built using **FastAPI** and powered by **TinyLlama**. It exposes a scalable, low-latency REST API for text generation and can be easily deployed in cloud or on-prem environments.
@@ -155,3 +151,4 @@ pytest tests/
 * **TinyLlama**
 * **Uvicorn**
 * **Docker**
+
